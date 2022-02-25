@@ -1,0 +1,28 @@
+*{
+    
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0px;
+}
+    div#contenedor{
+        
+
+margin:auto;
+width: 1320px;
+height: 580px;
+background-color: #fcf0b0;
+display: flex;
+  justify-content: center;
+  align-items: center;
+
+    }
+  
+    div#microcontenedor{
+      
+        width: 1255px;
+        height: 520px;
+        background-color: #3a3a38;
+
+            }
+          
+  
